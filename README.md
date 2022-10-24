@@ -1,13 +1,15 @@
 <h1 align="center">Hello👋, it's Andrea Expósito Santana</h1>
 <h3 align="center">a Fullstack Development student at Keepcoding</h3>
+<h4 align="center">I learnt the languages of humans. Now I learn those of computers.</h4>
+
 
 - 🔭 I’m currently working on simple step-by-step projects to help me get hands-on with programming
 
-- 🌱 I’m currently learning Python, Fullstack Dev & Data Analytics
+- 🌱 On the process of learning Python, Fullstack Dev & Data Analytics
 
 - 👨‍💻 Get to know me at [https://www.linkedin.com/in/andreaexposito/](https://www.linkedin.com/in/andreaexposito/)
 
-- ⚡ Fun fact Videogame localisation brought me here!
+- ⚡ Fun fact: Videogame localisation brought me here!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
